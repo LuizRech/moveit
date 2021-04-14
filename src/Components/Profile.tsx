@@ -1,6 +1,6 @@
 import React from 'react';
 
-import styles from '../styles/pages/Profile.module.css';
+import styles from '../styles/components/Profile.module.css';
 
 export function Profile(){
   return(
